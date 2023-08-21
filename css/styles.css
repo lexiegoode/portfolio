@@ -7658,6 +7658,9 @@ textarea.form-control-lg {
 .mb-5 {
   margin-bottom: 3rem !important;
 }
+.d-none {
+  display: none !important;
+}
 
 .mb-auto {
   margin-bottom: auto !important;
@@ -10978,6 +10981,15 @@ footer.footer .social-link {
 footer.footer .social-link:hover {
   background-color: #155d74;
   text-decoration: none;
+}
+.w-100 {
+  width: 100% !important;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
 }
 .masthead {
   min-height: 30rem;
